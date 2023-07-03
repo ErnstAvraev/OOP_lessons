@@ -56,7 +56,6 @@ public class Human {
         print.append(parents);
         print.append("\nДети: ");
         print.append(children);
-        print.append("\n");
 
         return print.toString();
     }
